@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Nahuel Alejandro Barreto
+- Vivo en Paso del Rey
 
 
 ### Otra Información
